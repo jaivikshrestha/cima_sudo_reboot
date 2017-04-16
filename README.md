@@ -1,2 +1,0 @@
-# cima_sudo_reboot
-Reboot_to_particular_user_with_nopasswd
